@@ -1,8 +1,0 @@
-// You need to code them yourself, since they are preinstalled in this firmware, slash google play adds stuff to this folder (ppa-apps)
-// PPA Apps are only coded in js or cpp, App indexer looks in the index-apps.cpp or this folder for Apps
-
-
-// Samsung Flip3 5G Firmware PPA Apps (main.en-us) (RF-E35 Firmware)
-// KVM Support Addition (preinstalled)
-// Version: 6.1
-// Creation Date: 2023-12-26 (By Katy)
